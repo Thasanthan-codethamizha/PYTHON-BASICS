@@ -1,0 +1,3 @@
+import sixth
+
+sixth.example()
